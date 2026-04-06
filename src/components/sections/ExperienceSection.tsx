@@ -23,7 +23,7 @@ const experiences: ExperienceItem[] = [
     title: "IT Consultant",
     company: "NOESIS Portugal",
     location: "Lisbon, Portugal",
-    description: "Leading development of enterprise-level applications with focus on scalability and performance optimization.",
+    description: "Improving system reliability through proactive monitoring, automation, and fast, effective incident resolution.",
     achievements: [
       "Ensured uptime through proactive monitoring and alerting, cutting unplanned downtime and accelerating incident detection.",
       "Automated job scheduling across multiple applications and servers, reducing missed-job incidents through standardized cron management and failure alerts.",
