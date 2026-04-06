@@ -26,7 +26,7 @@ export default function Resume() {
             </div>
             <div className="flex items-center gap-3">
               <a
-                href="/cvLatestEN.pdf"
+                href="https://drive.google.com/file/d/1Ma7OzazErKRSFDB5W4vWKizd4k524Vx7/preview"
                 download="Edson_Salvador_Resume.pdf"
               >
                 <Button variant="outline" size="sm" className="gap-2">
@@ -35,7 +35,7 @@ export default function Resume() {
                 </Button>
               </a>
               <a
-                href="/cvLatestEN.pdf"
+                href="https://drive.google.com/file/d/1Ma7OzazErKRSFDB5W4vWKizd4k524Vx7/preview"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -61,7 +61,7 @@ export default function Resume() {
             {/* PDF Viewer */}
             <div className="relative">
               <iframe
-                src="/cvLatestEN.pdf"
+                src="https://drive.google.com/file/d/1Ma7OzazErKRSFDB5W4vWKizd4k524Vx7/preview"
                 className="w-full h-[800px] md:h-[1000px]"
                 title="Resume Preview"
                 style={{ border: 'none' }}
@@ -73,13 +73,13 @@ export default function Resume() {
                     If the resume doesn't display properly, you can:
                   </p>
                   <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                    <a href="/cvLatestEN.pdf" download="Edson_Salvador_Resume.pdf">
+                    <a href="https://drive.google.com/file/d/1Ma7OzazErKRSFDB5W4vWKizd4k524Vx7/preview" download="Edson_Salvador_Resume.pdf">
                       <Button variant="outline" className="gap-2">
                         <Download className="w-4 h-4" />
                         Download PDF
                       </Button>
                     </a>
-                    <a href="/cvLatestEN.pdf" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1Ma7OzazErKRSFDB5W4vWKizd4k524Vx7/preview" target="_blank" rel="noopener noreferrer">
                       <Button variant="outline" className="gap-2">
                         <ExternalLink className="w-4 h-4" />
                         View in Browser
